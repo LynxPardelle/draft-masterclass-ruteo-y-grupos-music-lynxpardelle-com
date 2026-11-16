@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "domain": "masterclass-ruteo-y-grupos.music.lynxpardelle.com",
+  "pageId": "default",
+  "rootIds": [
+    "site-shell"
+  ],
+  "modalRootIds": [],
+  "seo": {
+    "title": "Ruteo avanzado y grupos de audio y MIDI | Lynx Pardelle",
+    "description": "Organiza una sesión que necesita procesamiento compartido. Traza el recorrido de la señal entre pistas, grupos de instrumentos y cadenas de efectos, y elige cuándo usar un retorno.",
+    "canonical": "https://masterclass-ruteo-y-grupos.music.lynxpardelle.com/",
+    "robots": "index,follow",
+    "openGraph": {
+      "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/images/lynx-offer-v1-masterclass-produccion.webp"
+    }
+  }
+}
