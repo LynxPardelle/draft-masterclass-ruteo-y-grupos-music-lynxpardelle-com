@@ -7,12 +7,63 @@
   ],
   "modalRootIds": [],
   "seo": {
-    "title": "Ruteo avanzado y grupos de audio y MIDI | Lynx Pardelle",
-    "description": "Organiza una sesión que necesita procesamiento compartido. Traza el recorrido de la señal entre pistas, grupos de instrumentos y cadenas de efectos, y elige cuándo usar un retorno.",
+    "title": "Masterclass de ruteo, grupos y retornos en Ableton Live | Lynx Pardelle",
+    "description": "Organiza el procesamiento compartido en Ableton Live. Practica rutas de señal, grupos de efectos, grupos MIDI, instrumentos y retornos.",
     "canonical": "https://masterclass-ruteo-y-grupos.music.lynxpardelle.com/",
     "robots": "index,follow",
     "openGraph": {
+      "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/masterclass-ruteo-y-grupos-r2-f0872cab18042cb9.webp",
+      "title": "Masterclass de ruteo, grupos y retornos en Ableton Live | Lynx Pardelle",
+      "description": "Organiza el procesamiento compartido en Ableton Live. Practica rutas de señal, grupos de efectos, grupos MIDI, instrumentos y retornos.",
+      "url": "https://masterclass-ruteo-y-grupos.music.lynxpardelle.com/",
+      "imageAlt": "Panel de conexiones y cableado ordenado de una sesión."
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Masterclass de ruteo, grupos y retornos en Ableton Live | Lynx Pardelle",
+      "description": "Organiza el procesamiento compartido en Ableton Live. Practica rutas de señal, grupos de efectos, grupos MIDI, instrumentos y retornos.",
       "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/masterclass-ruteo-y-grupos-r2-f0872cab18042cb9.webp"
     }
+  },
+  "structuredData": {
+    "entries": [
+      {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "@id": "https://masterclass-ruteo-y-grupos.music.lynxpardelle.com/#webpage",
+        "name": "Ruteo avanzado y grupos de audio y MIDI",
+        "description": "Organiza el procesamiento compartido en Ableton Live. Practica rutas de señal, grupos de efectos, grupos MIDI, instrumentos y retornos.",
+        "url": "https://masterclass-ruteo-y-grupos.music.lynxpardelle.com/",
+        "inLanguage": "es",
+        "isPartOf": {
+          "@type": "CollectionPage",
+          "name": "Masterclasses",
+          "url": "https://music.lynxpardelle.com/formacion/masterclasses"
+        },
+        "mainEntity": {
+          "@id": "https://masterclass-ruteo-y-grupos.music.lynxpardelle.com/#contenido-de-la-oferta"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Course",
+        "@id": "https://masterclass-ruteo-y-grupos.music.lynxpardelle.com/#contenido-de-la-oferta",
+        "name": "Ruteo avanzado y grupos de audio y MIDI",
+        "description": "Organiza el procesamiento compartido en Ableton Live. Practica rutas de señal, grupos de efectos, grupos MIDI, instrumentos y retornos.",
+        "url": "https://masterclass-ruteo-y-grupos.music.lynxpardelle.com/",
+        "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/masterclass-ruteo-y-grupos-r2-f0872cab18042cb9.webp",
+        "provider": {
+          "@id": "https://lynxpardelle.com/#person"
+        },
+        "inLanguage": "es",
+        "offers": {
+          "@type": "Offer",
+          "name": "Una inscripción",
+          "url": "https://masterclass-ruteo-y-grupos.music.lynxpardelle.com/#precios",
+          "price": 1750,
+          "priceCurrency": "MXN"
+        }
+      }
+    ]
   }
 }
